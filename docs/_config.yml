@@ -2,8 +2,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 lang: ko-KR
 timezone: Asia/Seoul
 
-title: 달리나음의 코스피 상대 강도
-repository: dalinaum/turtle
+title: Trader99999의 코스피 상대 강도
+repository: trader99999/turtle
 
 plugins:
   - jekyll-include-cache
