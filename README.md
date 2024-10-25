@@ -2,7 +2,7 @@
 
 [윌리엄 오닐의 Relative Strength Rating](https://www.williamoneil.com/proprietary-ratings-and-rankings/)에 기반한 사이트를 만들었다.
 
- * [달리나음의 코스피 상대 강도](https://trader99999.github.io/rs/)
+ * [Trader99999의 코스피 상대 강도](https://trader99999.github.io/rs/)
 
 해당 사이트에 월요일부터 금요일 오후 4시 전후에 자동으로 코스피 상대 경도를 올릴 예정이다. 4시 반까지도 올라오지 않는다면 시스템의 오류가 있는 것이다.
 
